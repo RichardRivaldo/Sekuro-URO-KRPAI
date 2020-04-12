@@ -67,3 +67,5 @@ public:
     }
 
 };
+
+// Ini emang ga dibuat main nya apa gimana kak?
