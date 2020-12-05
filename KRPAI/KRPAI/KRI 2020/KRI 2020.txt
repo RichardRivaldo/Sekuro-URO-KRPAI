@@ -1,0 +1,21 @@
+KRPAI Done and Undone
+
+1. Programming 
+. Inverse kinematic -> Jalan lurus masih kalibrasi -> dari 4 jadi 6 kaki
+. Algoritma -> Sudah ada dan implementasi sudah sebagian besar, ada yang diubah
+. Programming -> Integrasi sensor belum semua
+
+2. Electric
+. Pake dua nukleo
+. PCB udah cuma ada satu yang headernya kurang
+
+3. Mekanik
+. Ada revisi untuk desain
+. Udah cetak dan bagian bawah robot sudah
+. Desainnya dibikin modular tahun ini
+
+4. Managerial
+. Proposal KRI online sudah diterima dan resmi menjadi peserta KRI
+. Masalah perijinan dari ITB sudah oke, tapi satgas covid belum
+
+Arena bikin baru karena dari yang lalu ga sesuai
