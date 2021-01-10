@@ -1,0 +1,1 @@
+g++ .\main.cpp .\Robot\Robot.cpp .\Infrared\Infrared.cpp .\AnalogIn\AnalogIn.cpp -o out
